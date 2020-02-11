@@ -1,0 +1,11 @@
+.background {
+  width: 100%;
+  background: url('/assets/img/5.jpg') no-repeat;
+  background-size: cover;
+  color: rgb(0, 0, 0);
+  text-align:left;
+  font-family: cursive;
+  height: 100%;
+
+}
+
